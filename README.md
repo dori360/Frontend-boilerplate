@@ -1,11 +1,3 @@
-# React Boilerplate
-
-This is boilerplate with React, MaterialUI , Skip the FrontEnd setup and Just Add the Backend then Deploy.
-
-## Demo
-
-Live demo is available here: **[Demo](https://mern-boilerplate-demo.herokuapp.com/)**
-
 ## Screenshots
 
 ![Screenshot1](/screenshots/screen1.png)
@@ -18,6 +10,14 @@ Live demo is available here: **[Demo](https://mern-boilerplate-demo.herokuapp.co
 
 ![Screenshot5](/screenshots/screen5.png)
 
+# React Boilerplate
+
+This is boilerplate with React, MaterialUI , Skip the FrontEnd setup and Just Add the Backend then Deploy.
+
+## Demo
+
+Live demo is available here: **[Demo](https://frontend-boilerplate1.herokuapp.com/)**
+
 ## Features
 
 - Client
@@ -27,8 +27,17 @@ Live demo is available here: **[Demo](https://mern-boilerplate-demo.herokuapp.co
   - CSS agnostic, so you don't waste your time replacing my CSS framework with yours
   - Home, Menu, , Login, Register and contact pages
   - Protected routes with Higher order components
-  - Different views for unauthenticated, authenticated and admin user
+  - MaterialUI components used with correspondive styling
   - Layout component, Pages with Navbar and components are replaced.
+
+## Installation
+
+Read on on how to set up this for development. Clone the repo.
+
+```
+$ git clone https://github.com/dori450/Frontend_Boilerplate.git
+$ cd mern-boilerplate
+$ npm install
 
 ### `npm start`
 
@@ -92,3 +101,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
