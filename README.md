@@ -36,7 +36,7 @@ Read on on how to set up this for development. Clone the repo.
 
 ```
 $ git clone https://github.com/dori450/Frontend_Boilerplate.git
-$ cd mern-boilerplate
+$ cd Frontend_Boilerplate
 $ npm install
 
 ### `npm start`
